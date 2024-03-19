@@ -40,7 +40,7 @@ function Home() {
                 </p>
             </div>
         </section>
-        <img id="img1" src="./tution.jpg" alt="image of tution"></img>
+        <img id="img1" src="./tution.jpg" alt="tution"></img>
         {/* https://in.pinterest.com/pin/754704850037588890/ */}
     </main>
     </div>
